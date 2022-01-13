@@ -1,4 +1,4 @@
-The Project we made is a bus reservation system. The raw materials we used to make this this project are Java Swing, MyDQL database, etc.
+The Project we made is a bus reservation system. The raw materials we used to make this this project are Java Swing, MySQL database, etc.
 The project’s Key features are :-
 1)A login system
 2)Bus ticket bookings and cancellations 
