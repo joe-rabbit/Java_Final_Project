@@ -20,7 +20,8 @@ import java.awt.Graphics2D;
 
 /**
  *
- * @author Anirudh
+ * @author Joseph Raj Vishal
+
  */
 public class BookSeat extends javax.swing.JFrame {
 
