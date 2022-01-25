@@ -13,7 +13,8 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Anirudh
+ * @author  Joseph Raj Vishal
+ 
  */
 public class RemoveBus extends javax.swing.JFrame {
 
