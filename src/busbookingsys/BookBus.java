@@ -15,7 +15,7 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 /**
  *
- * @author Anirudh
+ * @author Joseph Raj Vishal
  */
 public class BookBus extends javax.swing.JFrame {
 
