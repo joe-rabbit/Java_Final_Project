@@ -6,7 +6,7 @@ package busbookingsys;
 
 /**
  *
- * @author Anirudh
+ * @author Jigyasa Gupta
  */
 public class LoginAdminCustomer extends javax.swing.JFrame {
 
